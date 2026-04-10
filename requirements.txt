@@ -6,8 +6,6 @@ matplotlib
 seaborn
 scikit-learn
 nltk
-spacy
-gensim
 wordcloud
 google-generativeai
 tweepy
