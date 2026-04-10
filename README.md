@@ -10,7 +10,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://aistudio.google.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 
-[🚀 Live Demo](#-deployment) • [📖 How It Works](#-how-it-works) • [⚡ Quick Start](#-quick-start)
+[🚀 Live Demo](https://smart-city-feedback-nlp-gollagopal.streamlit.app/) • [📖 How It Works](#-how-it-works) • [⚡ Quick Start](#-quick-start)
 
 </div>
 
