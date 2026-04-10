@@ -1,0 +1,301 @@
+id,text,area,department,source,timestamp,likes,retweets,city
+FB_00281,New metro station at Begumpet is excellent! Very clean and fast.,Begumpet,Public Transport,Reddit,2026-01-10 09:24:59,117,97,Hyderabad
+FB_00098,Power cut in Uppal for 6 hours. No response from electricity board.,Uppal,Electricity,Reddit,2026-01-10 16:24:59,224,68,Hyderabad
+FB_00012,Speeding vehicles near Banjara Hills school are dangerous for students.,Banjara Hills,Public Safety,Twitter,2026-01-10 18:24:59,269,74,Hyderabad
+FB_00099,Road near Madhapur has been broken for 3 months. No repair work done yet.,Madhapur,Roads & Infrastructure,Portal,2026-01-11 00:24:59,42,49,Hyderabad
+FB_00186,No water supply in Gachibowli for 2 days. When will this be fixed?,Gachibowli,Water Supply,Survey,2026-01-11 21:24:59,323,8,Hyderabad
+FB_00181,Open garbage dumping near Uppal market is causing bad smell.,Uppal,Sanitation,Twitter,2026-01-12 12:24:59,46,64,Hyderabad
+FB_00065,New solar street lights installed in Abids are amazing. Thank you!,Abids,Electricity,Twitter,2026-01-12 22:24:59,380,65,Hyderabad
+FB_00169,Low water pressure in Dilsukhnagar is making daily life very difficult.,Dilsukhnagar,Water Supply,Reddit,2026-01-12 22:24:59,112,83,Hyderabad
+FB_00226,Power cut in Tolichowki for 6 hours. No response from electricity board.,Tolichowki,Electricity,Survey,2026-01-12 22:24:59,328,8,Hyderabad
+FB_00228,No water supply in Begumpet for 2 days. When will this be fixed?,Begumpet,Water Supply,Reddit,2026-01-13 02:24:59,84,94,Hyderabad
+FB_00120,Footpath near LB Nagar is completely blocked and unusable for pedestrians.,LB Nagar,Roads & Infrastructure,Reddit,2026-01-13 04:24:59,55,51,Hyderabad
+FB_00251,Overcrowding in buses to Ameerpet is dangerous and uncomfortable.,Ameerpet,Public Transport,Portal,2026-01-13 06:24:59,261,98,Hyderabad
+FB_00107,Transformer in Hitech City makes loud noise. Please fix it.,Hitech City,Electricity,Twitter,2026-01-13 13:24:59,146,15,Hyderabad
+FB_00083,Irregular water supply in Miyapur. We only get water for 1 hour a day.,Miyapur,Water Supply,Portal,2026-01-14 15:24:59,187,58,Hyderabad
+FB_00130,Park in Miyapur is dirty and benches are broken. Kids can't play.,Miyapur,Parks & Recreation,Portal,2026-01-15 05:24:59,279,17,Hyderabad
+FB_00100,The roads in Madhapur are full of potholes. My car got damaged yesterday!,Madhapur,Roads & Infrastructure,Portal,2026-01-15 07:24:59,126,56,Hyderabad
+FB_00173,Street lights in Dilsukhnagar have not been working for weeks. Very dangerous at night.,Dilsukhnagar,Electricity,Portal,2026-01-15 08:24:59,376,20,Hyderabad
+FB_00175,Footpath near Jubilee Hills is completely blocked and unusable for pedestrians.,Jubilee Hills,Roads & Infrastructure,Portal,2026-01-15 08:24:59,321,73,Hyderabad
+FB_00047,Bus number 47 is always late by 30+ minutes at Miyapur stop.,Miyapur,Public Transport,Twitter,2026-01-15 20:24:59,233,22,Hyderabad
+FB_00114,Auto rickshaws near Mehdipatnam are overcharging passengers. Please regulate.,Mehdipatnam,Public Transport,Twitter,2026-01-15 23:24:59,234,38,Hyderabad
+FB_00046,New solar street lights installed in Ameerpet are amazing. Thank you!,Ameerpet,Electricity,Survey,2026-01-17 01:24:59,377,46,Hyderabad
+FB_00018,New solar street lights installed in Banjara Hills are amazing. Thank you!,Banjara Hills,Electricity,Twitter,2026-01-17 03:24:59,498,36,Hyderabad
+FB_00167,Footpath near Kukatpally is completely blocked and unusable for pedestrians.,Kukatpally,Roads & Infrastructure,Reddit,2026-01-17 03:24:59,341,70,Hyderabad
+FB_00092,Overcrowding in buses to Tolichowki is dangerous and uncomfortable.,Tolichowki,Public Transport,Reddit,2026-01-17 10:24:59,91,85,Hyderabad
+FB_00258,Water coming from tap in Koti is yellowish and smells bad.,Koti,Water Supply,Portal,2026-01-17 15:24:59,496,96,Hyderabad
+FB_00008,Road near Hitech City has been broken for 3 months. No repair work done yet.,Hitech City,Roads & Infrastructure,Twitter,2026-01-18 05:24:59,78,60,Hyderabad
+FB_00278,Overcrowding in buses to Madhapur is dangerous and uncomfortable.,Madhapur,Public Transport,Survey,2026-01-18 14:24:59,234,6,Hyderabad
+FB_00097,Traffic signal at Dilsukhnagar junction is not working. Causing accidents.,Dilsukhnagar,Public Safety,Survey,2026-01-18 17:24:59,267,26,Hyderabad
+FB_00086,No water supply in Abids for 2 days. When will this be fixed?,Abids,Water Supply,Twitter,2026-01-18 20:24:59,228,100,Hyderabad
+FB_00205,Overcrowding in buses to Abids is dangerous and uncomfortable.,Abids,Public Transport,Twitter,2026-01-19 08:24:59,433,20,Hyderabad
+FB_00024,Drains in Ameerpet are clogged causing water to flood the road.,Ameerpet,Sanitation,Reddit,2026-01-19 09:24:59,127,96,Hyderabad
+FB_00055,Great job by sanitation team! Hitech City is spotlessly clean now.,Hitech City,Sanitation,Reddit,2026-01-19 16:24:59,149,16,Hyderabad
+FB_00103,Speeding vehicles near Miyapur school are dangerous for students.,Miyapur,Public Safety,Portal,2026-01-19 20:24:59,204,61,Hyderabad
+FB_00270,Great job by sanitation team! Dilsukhnagar is spotlessly clean now.,Dilsukhnagar,Sanitation,Survey,2026-01-19 22:24:59,323,75,Hyderabad
+FB_00234,Open garbage dumping near Miyapur market is causing bad smell.,Miyapur,Sanitation,Portal,2026-01-20 11:24:59,284,90,Hyderabad
+FB_00021,The roads in Gachibowli are full of potholes. My car got damaged yesterday!,Gachibowli,Roads & Infrastructure,Portal,2026-01-20 14:24:59,480,39,Hyderabad
+FB_00262,No water supply in Malakpet for 2 days. When will this be fixed?,Malakpet,Water Supply,Reddit,2026-01-20 16:24:59,257,39,Hyderabad
+FB_00216,Dustbin in Mehdipatnam is full and nobody has emptied it in days.,Mehdipatnam,Sanitation,Twitter,2026-01-20 18:24:59,209,31,Hyderabad
+FB_00157,Stray animals spreading garbage in Dilsukhnagar. Need proper bins.,Dilsukhnagar,Sanitation,Reddit,2026-01-21 00:24:59,142,59,Hyderabad
+FB_00151,Street near Malakpet is flooded during rain due to bad drainage.,Malakpet,Roads & Infrastructure,Reddit,2026-01-21 02:24:59,418,3,Hyderabad
+FB_00299,Dustbin in Kukatpally is full and nobody has emptied it in days.,Kukatpally,Sanitation,Reddit,2026-01-21 04:24:59,465,50,Hyderabad
+FB_00217,Street lights in Kondapur have not been working for weeks. Very dangerous at night.,Kondapur,Electricity,Portal,2026-01-21 06:24:59,439,64,Hyderabad
+FB_00058,Power cut in Koti for 6 hours. No response from electricity board.,Koti,Electricity,Reddit,2026-01-21 09:24:59,468,61,Hyderabad
+FB_00159,The roads in Madhapur are full of potholes. My car got damaged yesterday!,Madhapur,Roads & Infrastructure,Portal,2026-01-21 22:24:59,57,23,Hyderabad
+FB_00194,No water supply in Begumpet for 2 days. When will this be fixed?,Begumpet,Water Supply,Portal,2026-01-22 01:24:59,390,79,Hyderabad
+FB_00146,The roads in Kukatpally are full of potholes. My car got damaged yesterday!,Kukatpally,Roads & Infrastructure,Twitter,2026-01-22 07:24:59,152,32,Hyderabad
+FB_00013,Road construction in Hitech City has been going on forever with no completion.,Hitech City,Roads & Infrastructure,Twitter,2026-01-22 08:24:59,79,0,Hyderabad
+FB_00093,Stray dogs in Koti park are scaring away children and elderly.,Koti,Parks & Recreation,Twitter,2026-01-22 13:24:59,435,3,Hyderabad
+FB_00105,Auto rickshaws near Hitech City are overcharging passengers. Please regulate.,Hitech City,Public Transport,Reddit,2026-01-22 13:24:59,37,78,Hyderabad
+FB_00177,No water supply in Miyapur for 2 days. When will this be fixed?,Miyapur,Water Supply,Survey,2026-01-22 20:24:59,446,14,Hyderabad
+FB_00060,Stray animals spreading garbage in Begumpet. Need proper bins.,Begumpet,Sanitation,Survey,2026-01-23 04:24:59,460,25,Hyderabad
+FB_00166,Street near Gachibowli is flooded during rain due to bad drainage.,Gachibowli,Roads & Infrastructure,Twitter,2026-01-23 04:24:59,86,42,Hyderabad
+FB_00076,Overcrowding in buses to Secunderabad is dangerous and uncomfortable.,Secunderabad,Public Transport,Portal,2026-01-24 15:24:59,385,42,Hyderabad
+FB_00232,Frequent power fluctuations in Kondapur damaging our appliances.,Kondapur,Electricity,Survey,2026-01-24 16:24:59,447,69,Hyderabad
+FB_00163,Street lights in Nampally have not been working for weeks. Very dangerous at night.,Nampally,Electricity,Reddit,2026-01-24 18:24:59,138,23,Hyderabad
+FB_00287,Frequent power fluctuations in Hitech City damaging our appliances.,Hitech City,Electricity,Portal,2026-01-25 08:24:59,484,36,Hyderabad
+FB_00170,Transformer in Hitech City makes loud noise. Please fix it.,Hitech City,Electricity,Reddit,2026-01-25 17:24:59,124,11,Hyderabad
+FB_00082,Water coming from tap in Dilsukhnagar is yellowish and smells bad.,Dilsukhnagar,Water Supply,Reddit,2026-01-26 15:24:59,309,93,Hyderabad
+FB_00153,"Speed bumps on Miyapur road are missing, causing accidents.",Miyapur,Roads & Infrastructure,Survey,2026-01-26 21:24:59,78,1,Hyderabad
+FB_00283,Police patrolling in Ameerpet has improved. Feeling much safer now.,Ameerpet,Public Safety,Reddit,2026-01-26 22:24:59,226,33,Hyderabad
+FB_00271,"Speed bumps on Abids road are missing, causing accidents.",Abids,Roads & Infrastructure,Reddit,2026-01-26 23:24:59,143,34,Hyderabad
+FB_00276,Transformer in Kukatpally makes loud noise. Please fix it.,Kukatpally,Electricity,Survey,2026-01-27 06:24:59,272,1,Hyderabad
+FB_00149,"Water pipe burst near Ameerpet since morning, nobody has come to fix.",Ameerpet,Water Supply,Reddit,2026-01-27 09:24:59,213,8,Hyderabad
+FB_00179,"Speed bumps on Tolichowki road are missing, causing accidents.",Tolichowki,Roads & Infrastructure,Reddit,2026-01-27 17:24:59,231,91,Hyderabad
+FB_00279,Low water pressure in Kondapur is making daily life very difficult.,Kondapur,Water Supply,Survey,2026-01-27 21:24:59,349,71,Hyderabad
+FB_00044,Auto rickshaws near Madhapur are overcharging passengers. Please regulate.,Madhapur,Public Transport,Survey,2026-01-28 04:24:59,386,31,Hyderabad
+FB_00178,Playground equipment at Miyapur park is damaged and unsafe for children.,Miyapur,Parks & Recreation,Portal,2026-01-28 06:24:59,493,93,Hyderabad
+FB_00210,Traffic signal at Mehdipatnam junction is not working. Causing accidents.,Mehdipatnam,Public Safety,Portal,2026-01-28 12:24:59,387,85,Hyderabad
+FB_00124,Frequent power fluctuations in Ameerpet damaging our appliances.,Ameerpet,Electricity,Reddit,2026-01-29 07:24:59,124,27,Hyderabad
+FB_00277,New metro station at LB Nagar is excellent! Very clean and fast.,LB Nagar,Public Transport,Survey,2026-01-29 08:24:59,496,50,Hyderabad
+FB_00162,Open garbage dumping near Miyapur market is causing bad smell.,Miyapur,Sanitation,Survey,2026-01-29 14:24:59,290,18,Hyderabad
+FB_00204,Irregular water supply in Jubilee Hills. We only get water for 1 hour a day.,Jubilee Hills,Water Supply,Survey,2026-01-29 14:24:59,437,86,Hyderabad
+FB_00140,Police patrolling in Malakpet has improved. Feeling much safer now.,Malakpet,Public Safety,Reddit,2026-01-30 09:24:59,333,63,Hyderabad
+FB_00183,Auto rickshaws near Ameerpet are overcharging passengers. Please regulate.,Ameerpet,Public Transport,Survey,2026-01-30 15:24:59,431,37,Hyderabad
+FB_00122,Great job by sanitation team! Madhapur is spotlessly clean now.,Madhapur,Sanitation,Reddit,2026-01-30 22:24:59,172,47,Hyderabad
+FB_00219,Bus number 47 is always late by 30+ minutes at Kukatpally stop.,Kukatpally,Public Transport,Survey,2026-02-01 09:24:59,353,74,Hyderabad
+FB_00209,Speeding vehicles near Koti school are dangerous for students.,Koti,Public Safety,Survey,2026-02-01 16:24:59,166,20,Hyderabad
+FB_00014,Road construction in Secunderabad has been going on forever with no completion.,Secunderabad,Roads & Infrastructure,Reddit,2026-02-02 00:24:59,78,17,Hyderabad
+FB_00221,Garbage not collected in Banjara Hills for a week. It's overflowing.,Banjara Hills,Sanitation,Twitter,2026-02-02 12:24:59,145,59,Hyderabad
+FB_00200,"Water pipe burst near Nampally since morning, nobody has come to fix.",Nampally,Water Supply,Portal,2026-02-02 15:24:59,299,9,Hyderabad
+FB_00285,Irregular water supply in Hitech City. We only get water for 1 hour a day.,Hitech City,Water Supply,Reddit,2026-02-03 08:24:59,140,80,Hyderabad
+FB_00265,Overcrowding in buses to Secunderabad is dangerous and uncomfortable.,Secunderabad,Public Transport,Portal,2026-02-03 11:24:59,147,64,Hyderabad
+FB_00048,Road construction in Koti has been going on forever with no completion.,Koti,Roads & Infrastructure,Twitter,2026-02-03 14:24:59,268,7,Hyderabad
+FB_00198,"Speed bumps on Madhapur road are missing, causing accidents.",Madhapur,Roads & Infrastructure,Twitter,2026-02-04 16:24:59,182,10,Hyderabad
+FB_00155,Street lights broken in Hitech City making it unsafe to walk at night.,Hitech City,Public Safety,Twitter,2026-02-04 18:24:59,418,75,Hyderabad
+FB_00136,Theft incidents increasing in Mehdipatnam. Need more police patrolling.,Mehdipatnam,Public Safety,Twitter,2026-02-05 00:24:59,200,52,Hyderabad
+FB_00094,Bus stop at Ameerpet has no shelter. We stand in sun/rain while waiting.,Ameerpet,Public Transport,Reddit,2026-02-05 22:24:59,376,83,Hyderabad
+FB_00029,Irregular water supply in Secunderabad. We only get water for 1 hour a day.,Secunderabad,Water Supply,Reddit,2026-02-06 06:24:59,332,94,Hyderabad
+FB_00215,Stray dogs in Abids park are scaring away children and elderly.,Abids,Parks & Recreation,Survey,2026-02-06 08:24:59,359,23,Hyderabad
+FB_00030,Bus number 47 is always late by 30+ minutes at Jubilee Hills stop.,Jubilee Hills,Public Transport,Portal,2026-02-06 13:24:59,318,77,Hyderabad
+FB_00212,Speeding vehicles near LB Nagar school are dangerous for students.,LB Nagar,Public Safety,Twitter,2026-02-06 16:24:59,157,13,Hyderabad
+FB_00053,Dustbin in Mehdipatnam is full and nobody has emptied it in days.,Mehdipatnam,Sanitation,Reddit,2026-02-07 05:24:59,426,2,Hyderabad
+FB_00152,Drains in Nampally are clogged causing water to flood the road.,Nampally,Sanitation,Portal,2026-02-07 16:24:59,295,31,Hyderabad
+FB_00187,New solar street lights installed in Kondapur are amazing. Thank you!,Kondapur,Electricity,Portal,2026-02-07 18:24:59,265,77,Hyderabad
+FB_00066,Speeding vehicles near Jubilee Hills school are dangerous for students.,Jubilee Hills,Public Safety,Survey,2026-02-07 23:24:59,133,84,Hyderabad
+FB_00075,Street lights in Tolichowki have not been working for weeks. Very dangerous at night.,Tolichowki,Electricity,Survey,2026-02-07 23:24:59,133,51,Hyderabad
+FB_00084,Power cut in Gachibowli for 6 hours. No response from electricity board.,Gachibowli,Electricity,Twitter,2026-02-08 01:24:59,436,49,Hyderabad
+FB_00156,Playground equipment at Mehdipatnam park is damaged and unsafe for children.,Mehdipatnam,Parks & Recreation,Survey,2026-02-08 01:24:59,35,19,Hyderabad
+FB_00004,Road construction in Mehdipatnam has been going on forever with no completion.,Mehdipatnam,Roads & Infrastructure,Reddit,2026-02-08 07:24:59,131,48,Hyderabad
+FB_00255,Irregular water supply in Abids. We only get water for 1 hour a day.,Abids,Water Supply,Survey,2026-02-08 14:24:59,483,20,Hyderabad
+FB_00090,Dustbin in Nampally is full and nobody has emptied it in days.,Nampally,Sanitation,Reddit,2026-02-08 17:24:59,197,25,Hyderabad
+FB_00041,Bus number 47 is always late by 30+ minutes at Ameerpet stop.,Ameerpet,Public Transport,Portal,2026-02-08 19:24:59,372,20,Hyderabad
+FB_00202,Street near Kukatpally is flooded during rain due to bad drainage.,Kukatpally,Roads & Infrastructure,Portal,2026-02-09 07:24:59,296,3,Hyderabad
+FB_00127,"Water pipe burst near Begumpet since morning, nobody has come to fix.",Begumpet,Water Supply,Reddit,2026-02-09 10:24:59,333,64,Hyderabad
+FB_00070,Road construction in Madhapur has been going on forever with no completion.,Madhapur,Roads & Infrastructure,Reddit,2026-02-09 17:24:59,306,30,Hyderabad
+FB_00074,Street lights broken in Kukatpally making it unsafe to walk at night.,Kukatpally,Public Safety,Survey,2026-02-10 01:24:59,90,57,Hyderabad
+FB_00239,Park in Jubilee Hills is dirty and benches are broken. Kids can't play.,Jubilee Hills,Parks & Recreation,Twitter,2026-02-10 02:24:59,136,73,Hyderabad
+FB_00089,Road construction in Ameerpet has been going on forever with no completion.,Ameerpet,Roads & Infrastructure,Twitter,2026-02-10 13:24:59,406,30,Hyderabad
+FB_00068,Drains in Begumpet are clogged causing water to flood the road.,Begumpet,Sanitation,Survey,2026-02-10 15:24:59,423,82,Hyderabad
+FB_00009,Power cut in Dilsukhnagar for 6 hours. No response from electricity board.,Dilsukhnagar,Electricity,Reddit,2026-02-10 17:24:59,103,22,Hyderabad
+FB_00063,No water supply in Gachibowli for 2 days. When will this be fixed?,Gachibowli,Water Supply,Portal,2026-02-10 21:24:59,242,73,Hyderabad
+FB_00252,The renovation of Uppal park is looking beautiful. Great initiative!,Uppal,Parks & Recreation,Reddit,2026-02-11 03:24:59,428,78,Hyderabad
+FB_00196,The renovation of Madhapur park is looking beautiful. Great initiative!,Madhapur,Parks & Recreation,Twitter,2026-02-11 06:24:59,176,20,Hyderabad
+FB_00172,The roads in Secunderabad are full of potholes. My car got damaged yesterday!,Secunderabad,Roads & Infrastructure,Reddit,2026-02-11 16:24:59,166,80,Hyderabad
+FB_00185,Transformer in Madhapur makes loud noise. Please fix it.,Madhapur,Electricity,Survey,2026-02-12 02:24:59,244,73,Hyderabad
+FB_00111,Traffic signal at Malakpet junction is not working. Causing accidents.,Malakpet,Public Safety,Reddit,2026-02-12 19:24:59,409,28,Hyderabad
+FB_00236,Transformer in Mehdipatnam makes loud noise. Please fix it.,Mehdipatnam,Electricity,Survey,2026-02-13 00:24:59,430,18,Hyderabad
+FB_00272,New solar street lights installed in Hitech City are amazing. Thank you!,Hitech City,Electricity,Portal,2026-02-13 03:24:59,34,90,Hyderabad
+FB_00158,Frequent power fluctuations in Abids damaging our appliances.,Abids,Electricity,Portal,2026-02-13 08:24:59,351,26,Hyderabad
+FB_00266,The renovation of Secunderabad park is looking beautiful. Great initiative!,Secunderabad,Parks & Recreation,Survey,2026-02-13 17:24:59,495,1,Hyderabad
+FB_00248,New solar street lights installed in Gachibowli are amazing. Thank you!,Gachibowli,Electricity,Survey,2026-02-13 19:24:59,247,39,Hyderabad
+FB_00038,Garbage not collected in Nampally for a week. It's overflowing.,Nampally,Sanitation,Survey,2026-02-15 02:24:59,234,20,Hyderabad
+FB_00125,Road near LB Nagar has been broken for 3 months. No repair work done yet.,LB Nagar,Roads & Infrastructure,Twitter,2026-02-15 07:24:59,307,52,Hyderabad
+FB_00230,The roads in Gachibowli are full of potholes. My car got damaged yesterday!,Gachibowli,Roads & Infrastructure,Reddit,2026-02-15 09:24:59,51,27,Hyderabad
+FB_00052,Street lights in Nampally have not been working for weeks. Very dangerous at night.,Nampally,Electricity,Twitter,2026-02-15 11:24:59,88,91,Hyderabad
+FB_00104,Park in Miyapur is dirty and benches are broken. Kids can't play.,Miyapur,Parks & Recreation,Twitter,2026-02-15 20:24:59,150,55,Hyderabad
+FB_00223,Open garbage dumping near Banjara Hills market is causing bad smell.,Banjara Hills,Sanitation,Survey,2026-02-15 23:24:59,480,2,Hyderabad
+FB_00121,Traffic signal at Miyapur junction is not working. Causing accidents.,Miyapur,Public Safety,Portal,2026-02-16 19:24:59,342,34,Hyderabad
+FB_00108,Street lights broken in Hitech City making it unsafe to walk at night.,Hitech City,Public Safety,Portal,2026-02-16 20:24:59,478,56,Hyderabad
+FB_00229,Footpath near Kukatpally is completely blocked and unusable for pedestrians.,Kukatpally,Roads & Infrastructure,Reddit,2026-02-16 22:24:59,469,66,Hyderabad
+FB_00190,Bus stop at Dilsukhnagar has no shelter. We stand in sun/rain while waiting.,Dilsukhnagar,Public Transport,Twitter,2026-02-17 13:24:59,442,86,Hyderabad
+FB_00135,Irregular water supply in Madhapur. We only get water for 1 hour a day.,Madhapur,Water Supply,Twitter,2026-02-17 18:24:59,58,6,Hyderabad
+FB_00102,Park in Koti has no lighting. People are afraid to walk at night.,Koti,Parks & Recreation,Twitter,2026-02-17 21:24:59,335,88,Hyderabad
+FB_00191,Garbage not collected in Banjara Hills for a week. It's overflowing.,Banjara Hills,Sanitation,Reddit,2026-02-18 11:24:59,101,4,Hyderabad
+FB_00006,Transformer in Abids makes loud noise. Please fix it.,Abids,Electricity,Twitter,2026-02-18 15:24:59,171,74,Hyderabad
+FB_00033,Power cut in Ameerpet for 6 hours. No response from electricity board.,Ameerpet,Electricity,Survey,2026-02-19 06:24:59,148,20,Hyderabad
+FB_00286,Footpath near Mehdipatnam is completely blocked and unusable for pedestrians.,Mehdipatnam,Roads & Infrastructure,Twitter,2026-02-19 06:24:59,64,96,Hyderabad
+FB_00241,Park in Mehdipatnam is dirty and benches are broken. Kids can't play.,Mehdipatnam,Parks & Recreation,Portal,2026-02-19 10:24:59,132,87,Hyderabad
+FB_00298,Drains in Begumpet are clogged causing water to flood the road.,Begumpet,Sanitation,Survey,2026-02-19 11:24:59,153,51,Hyderabad
+FB_00040,Street lights broken in Madhapur making it unsafe to walk at night.,Madhapur,Public Safety,Portal,2026-02-19 14:24:59,119,41,Hyderabad
+FB_00073,Drains in Ameerpet are clogged causing water to flood the road.,Ameerpet,Sanitation,Survey,2026-02-19 19:24:59,451,26,Hyderabad
+FB_00072,"Speed bumps on Koti road are missing, causing accidents.",Koti,Roads & Infrastructure,Portal,2026-02-20 05:24:59,448,96,Hyderabad
+FB_00268,The renovation of Mehdipatnam park is looking beautiful. Great initiative!,Mehdipatnam,Parks & Recreation,Survey,2026-02-20 23:24:59,169,14,Hyderabad
+FB_00039,Bus number 47 is always late by 30+ minutes at Malakpet stop.,Malakpet,Public Transport,Survey,2026-02-21 01:24:59,286,70,Hyderabad
+FB_00240,"Speed bumps on Gachibowli road are missing, causing accidents.",Gachibowli,Roads & Infrastructure,Reddit,2026-02-21 02:24:59,341,43,Hyderabad
+FB_00137,Irregular water supply in Kukatpally. We only get water for 1 hour a day.,Kukatpally,Water Supply,Portal,2026-02-21 05:24:59,87,93,Hyderabad
+FB_00085,Road construction in Uppal has been going on forever with no completion.,Uppal,Roads & Infrastructure,Reddit,2026-02-21 11:24:59,32,93,Hyderabad
+FB_00243,Speeding vehicles near Kukatpally school are dangerous for students.,Kukatpally,Public Safety,Portal,2026-02-21 13:24:59,138,96,Hyderabad
+FB_00031,Stray dogs in Mehdipatnam park are scaring away children and elderly.,Mehdipatnam,Parks & Recreation,Portal,2026-02-21 14:24:59,225,92,Hyderabad
+FB_00171,"Water pipe burst near Nampally since morning, nobody has come to fix.",Nampally,Water Supply,Twitter,2026-02-21 19:24:59,153,95,Hyderabad
+FB_00291,Power cut in Abids for 6 hours. No response from electricity board.,Abids,Electricity,Reddit,2026-02-22 10:24:59,499,47,Hyderabad
+FB_00043,Drains in Hitech City are clogged causing water to flood the road.,Hitech City,Sanitation,Twitter,2026-02-22 14:24:59,26,35,Hyderabad
+FB_00067,No water supply in Kondapur for 2 days. When will this be fixed?,Kondapur,Water Supply,Survey,2026-02-23 12:24:59,330,9,Hyderabad
+FB_00050,Power cut in Miyapur for 6 hours. No response from electricity board.,Miyapur,Electricity,Reddit,2026-02-23 16:24:59,162,13,Hyderabad
+FB_00077,"Speed bumps on Tolichowki road are missing, causing accidents.",Tolichowki,Roads & Infrastructure,Reddit,2026-02-23 19:24:59,113,36,Hyderabad
+FB_00148,Police patrolling in Gachibowli has improved. Feeling much safer now.,Gachibowli,Public Safety,Reddit,2026-02-23 22:24:59,278,32,Hyderabad
+FB_00192,Theft incidents increasing in LB Nagar. Need more police patrolling.,LB Nagar,Public Safety,Twitter,2026-02-24 09:24:59,13,56,Hyderabad
+FB_00088,Open garbage dumping near Banjara Hills market is causing bad smell.,Banjara Hills,Sanitation,Portal,2026-02-24 12:24:59,200,74,Hyderabad
+FB_00132,New metro station at Secunderabad is excellent! Very clean and fast.,Secunderabad,Public Transport,Reddit,2026-02-24 12:24:59,244,87,Hyderabad
+FB_00293,New metro station at Uppal is excellent! Very clean and fast.,Uppal,Public Transport,Survey,2026-02-24 13:24:59,66,37,Hyderabad
+FB_00267,Speeding vehicles near Begumpet school are dangerous for students.,Begumpet,Public Safety,Survey,2026-02-24 14:24:59,41,19,Hyderabad
+FB_00235,Theft incidents increasing in Jubilee Hills. Need more police patrolling.,Jubilee Hills,Public Safety,Twitter,2026-02-24 22:24:59,353,20,Hyderabad
+FB_00026,Road near Dilsukhnagar has been broken for 3 months. No repair work done yet.,Dilsukhnagar,Roads & Infrastructure,Reddit,2026-02-25 13:24:59,397,74,Hyderabad
+FB_00193,Road near Banjara Hills has been broken for 3 months. No repair work done yet.,Banjara Hills,Roads & Infrastructure,Reddit,2026-02-25 13:24:59,492,18,Hyderabad
+FB_00197,Park in LB Nagar has no lighting. People are afraid to walk at night.,LB Nagar,Parks & Recreation,Reddit,2026-02-25 15:24:59,497,22,Hyderabad
+FB_00250,Road construction in Kukatpally has been going on forever with no completion.,Kukatpally,Roads & Infrastructure,Twitter,2026-02-25 15:24:59,417,86,Hyderabad
+FB_00144,New solar street lights installed in Ameerpet are amazing. Thank you!,Ameerpet,Electricity,Portal,2026-02-25 17:24:59,88,44,Hyderabad
+FB_00002,"Water pipe burst near LB Nagar since morning, nobody has come to fix.",LB Nagar,Water Supply,Twitter,2026-02-25 23:24:59,134,38,Hyderabad
+FB_00188,Water coming from tap in LB Nagar is yellowish and smells bad.,LB Nagar,Water Supply,Portal,2026-02-26 19:24:59,237,45,Hyderabad
+FB_00051,Playground equipment at Ameerpet park is damaged and unsafe for children.,Ameerpet,Parks & Recreation,Twitter,2026-02-26 23:24:59,66,47,Hyderabad
+FB_00059,Open garbage dumping near Gachibowli market is causing bad smell.,Gachibowli,Sanitation,Survey,2026-02-27 01:24:59,194,60,Hyderabad
+FB_00244,Frequent power fluctuations in Tolichowki damaging our appliances.,Tolichowki,Electricity,Portal,2026-02-27 01:24:59,234,80,Hyderabad
+FB_00049,Street lights in Ameerpet have not been working for weeks. Very dangerous at night.,Ameerpet,Electricity,Survey,2026-02-27 02:24:59,406,64,Hyderabad
+FB_00218,Footpath near Ameerpet is completely blocked and unusable for pedestrians.,Ameerpet,Roads & Infrastructure,Twitter,2026-02-27 03:24:59,65,16,Hyderabad
+FB_00247,Low water pressure in Kondapur is making daily life very difficult.,Kondapur,Water Supply,Twitter,2026-02-27 06:24:59,291,19,Hyderabad
+FB_00019,Road construction in Banjara Hills has been going on forever with no completion.,Banjara Hills,Roads & Infrastructure,Portal,2026-02-27 15:24:59,436,60,Hyderabad
+FB_00245,Park in Tolichowki has no lighting. People are afraid to walk at night.,Tolichowki,Parks & Recreation,Portal,2026-02-27 15:24:59,85,42,Hyderabad
+FB_00233,Bus service to Begumpet has been discontinued. Very inconvenient for residents.,Begumpet,Public Transport,Twitter,2026-02-27 19:24:59,346,13,Hyderabad
+FB_00032,Transformer in Abids makes loud noise. Please fix it.,Abids,Electricity,Twitter,2026-02-28 03:24:59,103,79,Hyderabad
+FB_00138,Garbage not collected in Begumpet for a week. It's overflowing.,Begumpet,Sanitation,Survey,2026-02-28 06:24:59,291,92,Hyderabad
+FB_00174,Water coming from tap in Begumpet is yellowish and smells bad.,Begumpet,Water Supply,Twitter,2026-02-28 06:24:59,331,75,Hyderabad
+FB_00254,Irregular water supply in Koti. We only get water for 1 hour a day.,Koti,Water Supply,Portal,2026-03-01 15:24:59,361,98,Hyderabad
+FB_00214,Stray dogs in Tolichowki park are scaring away children and elderly.,Tolichowki,Parks & Recreation,Reddit,2026-03-01 18:24:59,39,97,Hyderabad
+FB_00064,Frequent power fluctuations in Gachibowli damaging our appliances.,Gachibowli,Electricity,Survey,2026-03-01 20:24:59,308,10,Hyderabad
+FB_00079,Water coming from tap in Jubilee Hills is yellowish and smells bad.,Jubilee Hills,Water Supply,Twitter,2026-03-02 02:24:59,383,36,Hyderabad
+FB_00284,Playground equipment at Begumpet park is damaged and unsafe for children.,Begumpet,Parks & Recreation,Survey,2026-03-02 03:24:59,243,55,Hyderabad
+FB_00005,Street lights broken in Miyapur making it unsafe to walk at night.,Miyapur,Public Safety,Twitter,2026-03-02 12:24:59,448,85,Hyderabad
+FB_00296,Street lights in Miyapur have not been working for weeks. Very dangerous at night.,Miyapur,Electricity,Reddit,2026-03-02 14:24:59,70,86,Hyderabad
+FB_00133,Stray animals spreading garbage in Mehdipatnam. Need proper bins.,Mehdipatnam,Sanitation,Survey,2026-03-02 19:24:59,224,84,Hyderabad
+FB_00091,Street lights in LB Nagar have not been working for weeks. Very dangerous at night.,LB Nagar,Electricity,Reddit,2026-03-03 02:24:59,407,97,Hyderabad
+FB_00201,Bus stop at Madhapur has no shelter. We stand in sun/rain while waiting.,Madhapur,Public Transport,Survey,2026-03-04 01:24:59,442,97,Hyderabad
+FB_00036,Street near LB Nagar is flooded during rain due to bad drainage.,LB Nagar,Roads & Infrastructure,Portal,2026-03-04 11:24:59,466,16,Hyderabad
+FB_00123,"Water pipe burst near Gachibowli since morning, nobody has come to fix.",Gachibowli,Water Supply,Survey,2026-03-04 22:24:59,107,26,Hyderabad
+FB_00131,Irregular water supply in Banjara Hills. We only get water for 1 hour a day.,Banjara Hills,Water Supply,Survey,2026-03-04 22:24:59,352,14,Hyderabad
+FB_00176,Power cut in Koti for 6 hours. No response from electricity board.,Koti,Electricity,Twitter,2026-03-05 01:24:59,425,80,Hyderabad
+FB_00022,Park in Mehdipatnam has no lighting. People are afraid to walk at night.,Mehdipatnam,Parks & Recreation,Portal,2026-03-05 22:24:59,142,8,Hyderabad
+FB_00142,The renovation of Nampally park is looking beautiful. Great initiative!,Nampally,Parks & Recreation,Twitter,2026-03-06 00:24:59,454,63,Hyderabad
+FB_00249,Low water pressure in Ameerpet is making daily life very difficult.,Ameerpet,Water Supply,Portal,2026-03-06 18:24:59,95,24,Hyderabad
+FB_00109,Road construction in Abids has been going on forever with no completion.,Abids,Roads & Infrastructure,Twitter,2026-03-07 00:24:59,365,95,Hyderabad
+FB_00257,No water supply in Tolichowki for 2 days. When will this be fixed?,Tolichowki,Water Supply,Twitter,2026-03-07 00:24:59,193,67,Hyderabad
+FB_00025,Road near Abids has been broken for 3 months. No repair work done yet.,Abids,Roads & Infrastructure,Survey,2026-03-07 23:24:59,434,83,Hyderabad
+FB_00256,Street near LB Nagar is flooded during rain due to bad drainage.,LB Nagar,Roads & Infrastructure,Portal,2026-03-08 00:24:59,418,22,Hyderabad
+FB_00300,"Water pipe burst near Begumpet since morning, nobody has come to fix.",Begumpet,Water Supply,Twitter,2026-03-08 01:24:59,199,64,Hyderabad
+FB_00095,No water supply in LB Nagar for 2 days. When will this be fixed?,LB Nagar,Water Supply,Reddit,2026-03-08 08:24:59,359,29,Hyderabad
+FB_00275,"Speed bumps on Secunderabad road are missing, causing accidents.",Secunderabad,Roads & Infrastructure,Reddit,2026-03-08 12:24:59,24,19,Hyderabad
+FB_00023,Low water pressure in Ameerpet is making daily life very difficult.,Ameerpet,Water Supply,Portal,2026-03-08 22:24:59,284,55,Hyderabad
+FB_00269,Bus service to Dilsukhnagar has been discontinued. Very inconvenient for residents.,Dilsukhnagar,Public Transport,Survey,2026-03-09 08:24:59,116,18,Hyderabad
+FB_00061,Auto rickshaws near Abids are overcharging passengers. Please regulate.,Abids,Public Transport,Portal,2026-03-09 11:24:59,451,31,Hyderabad
+FB_00207,Bus service to Koti has been discontinued. Very inconvenient for residents.,Koti,Public Transport,Reddit,2026-03-09 19:24:59,317,96,Hyderabad
+FB_00119,Power cut in Ameerpet for 6 hours. No response from electricity board.,Ameerpet,Electricity,Twitter,2026-03-09 22:24:59,352,23,Hyderabad
+FB_00015,Frequent power fluctuations in LB Nagar damaging our appliances.,LB Nagar,Electricity,Reddit,2026-03-10 18:24:59,488,58,Hyderabad
+FB_00057,Park in LB Nagar has no lighting. People are afraid to walk at night.,LB Nagar,Parks & Recreation,Survey,2026-03-11 10:24:59,369,6,Hyderabad
+FB_00260,Street near Uppal is flooded during rain due to bad drainage.,Uppal,Roads & Infrastructure,Reddit,2026-03-11 14:24:59,367,61,Hyderabad
+FB_00080,Road construction in Ameerpet has been going on forever with no completion.,Ameerpet,Roads & Infrastructure,Reddit,2026-03-11 15:24:59,119,34,Hyderabad
+FB_00203,New metro station at Nampally is excellent! Very clean and fast.,Nampally,Public Transport,Reddit,2026-03-12 20:24:59,302,67,Hyderabad
+FB_00081,Frequent power fluctuations in Koti damaging our appliances.,Koti,Electricity,Reddit,2026-03-13 16:24:59,40,11,Hyderabad
+FB_00253,Speeding vehicles near Kondapur school are dangerous for students.,Kondapur,Public Safety,Twitter,2026-03-13 18:24:59,406,91,Hyderabad
+FB_00139,Auto rickshaws near Secunderabad are overcharging passengers. Please regulate.,Secunderabad,Public Transport,Portal,2026-03-13 23:24:59,406,78,Hyderabad
+FB_00238,Open garbage dumping near LB Nagar market is causing bad smell.,LB Nagar,Sanitation,Survey,2026-03-13 23:24:59,493,78,Hyderabad
+FB_00199,Park in Uppal is dirty and benches are broken. Kids can't play.,Uppal,Parks & Recreation,Survey,2026-03-14 10:24:59,248,91,Hyderabad
+FB_00261,Road construction in Ameerpet has been going on forever with no completion.,Ameerpet,Roads & Infrastructure,Survey,2026-03-15 00:24:59,366,20,Hyderabad
+FB_00225,Stray dogs in Ameerpet park are scaring away children and elderly.,Ameerpet,Parks & Recreation,Twitter,2026-03-15 16:24:59,174,72,Hyderabad
+FB_00143,Dustbin in Kukatpally is full and nobody has emptied it in days.,Kukatpally,Sanitation,Portal,2026-03-15 20:24:59,484,34,Hyderabad
+FB_00294,Speeding vehicles near LB Nagar school are dangerous for students.,LB Nagar,Public Safety,Portal,2026-03-15 22:24:59,232,64,Hyderabad
+FB_00101,New solar street lights installed in Nampally are amazing. Thank you!,Nampally,Electricity,Reddit,2026-03-16 03:24:59,136,81,Hyderabad
+FB_00224,Police patrolling in Hitech City has improved. Feeling much safer now.,Hitech City,Public Safety,Reddit,2026-03-16 09:24:59,482,22,Hyderabad
+FB_00078,Speeding vehicles near Miyapur school are dangerous for students.,Miyapur,Public Safety,Reddit,2026-03-16 16:24:59,395,36,Hyderabad
+FB_00116,The roads in Koti are full of potholes. My car got damaged yesterday!,Koti,Roads & Infrastructure,Twitter,2026-03-16 17:24:59,272,87,Hyderabad
+FB_00117,Park in Koti has no lighting. People are afraid to walk at night.,Koti,Parks & Recreation,Twitter,2026-03-17 02:24:59,364,46,Hyderabad
+FB_00141,Drains in Miyapur are clogged causing water to flood the road.,Miyapur,Sanitation,Portal,2026-03-17 04:24:59,177,50,Hyderabad
+FB_00020,No water supply in Hitech City for 2 days. When will this be fixed?,Hitech City,Water Supply,Survey,2026-03-17 17:24:59,8,59,Hyderabad
+FB_00246,Street near Malakpet is flooded during rain due to bad drainage.,Malakpet,Roads & Infrastructure,Reddit,2026-03-17 23:24:59,154,89,Hyderabad
+FB_00161,Stray animals spreading garbage in Secunderabad. Need proper bins.,Secunderabad,Sanitation,Portal,2026-03-18 04:24:59,142,30,Hyderabad
+FB_00184,Theft incidents increasing in Koti. Need more police patrolling.,Koti,Public Safety,Reddit,2026-03-18 17:24:59,184,11,Hyderabad
+FB_00282,Water coming from tap in Banjara Hills is yellowish and smells bad.,Banjara Hills,Water Supply,Reddit,2026-03-18 19:24:59,380,12,Hyderabad
+FB_00264,Park in Begumpet has no lighting. People are afraid to walk at night.,Begumpet,Parks & Recreation,Reddit,2026-03-19 03:24:59,175,98,Hyderabad
+FB_00263,No water supply in Ameerpet for 2 days. When will this be fixed?,Ameerpet,Water Supply,Survey,2026-03-19 13:24:59,490,3,Hyderabad
+FB_00126,Police patrolling in Secunderabad has improved. Feeling much safer now.,Secunderabad,Public Safety,Portal,2026-03-19 17:24:59,12,51,Hyderabad
+FB_00145,Great job by sanitation team! Secunderabad is spotlessly clean now.,Secunderabad,Sanitation,Portal,2026-03-20 02:24:59,326,12,Hyderabad
+FB_00011,The renovation of Nampally park is looking beautiful. Great initiative!,Nampally,Parks & Recreation,Reddit,2026-03-20 08:24:59,85,4,Hyderabad
+FB_00112,Police patrolling in Malakpet has improved. Feeling much safer now.,Malakpet,Public Safety,Portal,2026-03-20 10:24:59,148,67,Hyderabad
+FB_00027,Frequent power fluctuations in Jubilee Hills damaging our appliances.,Jubilee Hills,Electricity,Survey,2026-03-20 13:24:59,469,7,Hyderabad
+FB_00071,No water supply in Uppal for 2 days. When will this be fixed?,Uppal,Water Supply,Twitter,2026-03-20 15:24:59,219,13,Hyderabad
+FB_00028,Playground equipment at Hitech City park is damaged and unsafe for children.,Hitech City,Parks & Recreation,Twitter,2026-03-21 01:24:59,293,13,Hyderabad
+FB_00096,Street near Tolichowki is flooded during rain due to bad drainage.,Tolichowki,Roads & Infrastructure,Twitter,2026-03-21 12:24:59,415,88,Hyderabad
+FB_00129,No water supply in Madhapur for 2 days. When will this be fixed?,Madhapur,Water Supply,Reddit,2026-03-22 06:24:59,138,16,Hyderabad
+FB_00289,No water supply in Secunderabad for 2 days. When will this be fixed?,Secunderabad,Water Supply,Reddit,2026-03-22 06:24:59,194,27,Hyderabad
+FB_00106,"Speed bumps on Begumpet road are missing, causing accidents.",Begumpet,Roads & Infrastructure,Reddit,2026-03-22 11:24:59,443,85,Hyderabad
+FB_00160,Traffic signal at Tolichowki junction is not working. Causing accidents.,Tolichowki,Public Safety,Reddit,2026-03-22 14:24:59,169,90,Hyderabad
+FB_00062,Bus service to Kondapur has been discontinued. Very inconvenient for residents.,Kondapur,Public Transport,Twitter,2026-03-22 23:24:59,305,6,Hyderabad
+FB_00042,No water supply in Nampally for 2 days. When will this be fixed?,Nampally,Water Supply,Twitter,2026-03-23 17:24:59,162,3,Hyderabad
+FB_00288,Auto rickshaws near Gachibowli are overcharging passengers. Please regulate.,Gachibowli,Public Transport,Twitter,2026-03-23 21:24:59,449,32,Hyderabad
+FB_00292,Park in Hitech City is dirty and benches are broken. Kids can't play.,Hitech City,Parks & Recreation,Survey,2026-03-24 04:24:59,273,26,Hyderabad
+FB_00211,Speeding vehicles near Abids school are dangerous for students.,Abids,Public Safety,Reddit,2026-03-24 17:24:59,23,72,Hyderabad
+FB_00154,Road construction in Madhapur has been going on forever with no completion.,Madhapur,Roads & Infrastructure,Survey,2026-03-25 01:24:59,174,58,Hyderabad
+FB_00037,The renovation of Mehdipatnam park is looking beautiful. Great initiative!,Mehdipatnam,Parks & Recreation,Survey,2026-03-25 10:24:59,199,93,Hyderabad
+FB_00164,Frequent power fluctuations in Uppal damaging our appliances.,Uppal,Electricity,Portal,2026-03-25 14:24:59,0,57,Hyderabad
+FB_00010,Stray dogs in Dilsukhnagar park are scaring away children and elderly.,Dilsukhnagar,Parks & Recreation,Portal,2026-03-25 16:24:59,197,31,Hyderabad
+FB_00045,The renovation of Dilsukhnagar park is looking beautiful. Great initiative!,Dilsukhnagar,Parks & Recreation,Survey,2026-03-26 04:24:59,199,37,Hyderabad
+FB_00134,Low water pressure in Abids is making daily life very difficult.,Abids,Water Supply,Portal,2026-03-27 15:24:59,451,37,Hyderabad
+FB_00054,Water coming from tap in Kondapur is yellowish and smells bad.,Kondapur,Water Supply,Twitter,2026-03-27 17:24:59,148,83,Hyderabad
+FB_00001,Road construction in Nampally has been going on forever with no completion.,Nampally,Roads & Infrastructure,Reddit,2026-03-28 04:24:59,263,29,Hyderabad
+FB_00208,Road near Kukatpally has been broken for 3 months. No repair work done yet.,Kukatpally,Roads & Infrastructure,Reddit,2026-03-28 04:24:59,363,93,Hyderabad
+FB_00110,Drains in Kondapur are clogged causing water to flood the road.,Kondapur,Sanitation,Survey,2026-03-28 07:24:59,70,61,Hyderabad
+FB_00115,Street lights in Mehdipatnam have not been working for weeks. Very dangerous at night.,Mehdipatnam,Electricity,Portal,2026-03-28 11:24:59,498,18,Hyderabad
+FB_00297,Street lights in LB Nagar have not been working for weeks. Very dangerous at night.,LB Nagar,Electricity,Twitter,2026-03-28 23:24:59,29,82,Hyderabad
+FB_00280,Playground equipment at Ameerpet park is damaged and unsafe for children.,Ameerpet,Parks & Recreation,Portal,2026-03-29 03:24:59,198,64,Hyderabad
+FB_00274,Water coming from tap in Abids is yellowish and smells bad.,Abids,Water Supply,Survey,2026-03-29 05:24:59,30,39,Hyderabad
+FB_00034,New solar street lights installed in Ameerpet are amazing. Thank you!,Ameerpet,Electricity,Survey,2026-03-30 02:24:59,338,65,Hyderabad
+FB_00295,"Speed bumps on Jubilee Hills road are missing, causing accidents.",Jubilee Hills,Roads & Infrastructure,Twitter,2026-04-01 02:24:59,324,89,Hyderabad
+FB_00168,New metro station at Tolichowki is excellent! Very clean and fast.,Tolichowki,Public Transport,Survey,2026-04-01 19:24:59,227,52,Hyderabad
+FB_00259,"Water pipe burst near Dilsukhnagar since morning, nobody has come to fix.",Dilsukhnagar,Water Supply,Portal,2026-04-03 00:24:59,498,12,Hyderabad
+FB_00150,Street lights broken in Banjara Hills making it unsafe to walk at night.,Banjara Hills,Public Safety,Twitter,2026-04-03 06:24:59,362,45,Hyderabad
+FB_00128,Garbage not collected in Malakpet for a week. It's overflowing.,Malakpet,Sanitation,Reddit,2026-04-03 11:24:59,165,87,Hyderabad
+FB_00222,Street near Hitech City is flooded during rain due to bad drainage.,Hitech City,Roads & Infrastructure,Survey,2026-04-03 16:24:59,152,25,Hyderabad
+FB_00017,Low water pressure in Uppal is making daily life very difficult.,Uppal,Water Supply,Survey,2026-04-03 17:24:59,35,60,Hyderabad
+FB_00003,Transformer in Banjara Hills makes loud noise. Please fix it.,Banjara Hills,Electricity,Portal,2026-04-03 19:24:59,345,24,Hyderabad
+FB_00182,Overcrowding in buses to Uppal is dangerous and uncomfortable.,Uppal,Public Transport,Portal,2026-04-04 09:24:59,139,85,Hyderabad
+FB_00231,New solar street lights installed in Mehdipatnam are amazing. Thank you!,Mehdipatnam,Electricity,Survey,2026-04-04 09:24:59,217,63,Hyderabad
+FB_00165,Street lights broken in Ameerpet making it unsafe to walk at night.,Ameerpet,Public Safety,Reddit,2026-04-04 21:24:59,88,49,Hyderabad
+FB_00016,Footpath near Abids is completely blocked and unusable for pedestrians.,Abids,Roads & Infrastructure,Twitter,2026-04-05 12:24:59,258,68,Hyderabad
+FB_00035,Traffic signal at Kukatpally junction is not working. Causing accidents.,Kukatpally,Public Safety,Twitter,2026-04-06 03:24:59,44,52,Hyderabad
+FB_00180,Bus service to Madhapur has been discontinued. Very inconvenient for residents.,Madhapur,Public Transport,Survey,2026-04-06 04:24:59,213,21,Hyderabad
+FB_00227,Theft incidents increasing in Dilsukhnagar. Need more police patrolling.,Dilsukhnagar,Public Safety,Survey,2026-04-07 10:24:59,434,46,Hyderabad
+FB_00206,Road construction in Malakpet has been going on forever with no completion.,Malakpet,Roads & Infrastructure,Twitter,2026-04-07 12:24:59,16,99,Hyderabad
+FB_00007,New solar street lights installed in Dilsukhnagar are amazing. Thank you!,Dilsukhnagar,Electricity,Survey,2026-04-07 17:24:59,497,50,Hyderabad
+FB_00195,Police patrolling in Jubilee Hills has improved. Feeling much safer now.,Jubilee Hills,Public Safety,Reddit,2026-04-07 18:24:59,238,49,Hyderabad
+FB_00273,Speeding vehicles near Gachibowli school are dangerous for students.,Gachibowli,Public Safety,Reddit,2026-04-08 02:24:59,326,38,Hyderabad
+FB_00056,Water coming from tap in Banjara Hills is yellowish and smells bad.,Banjara Hills,Water Supply,Portal,2026-04-08 04:24:59,1,29,Hyderabad
+FB_00113,Low water pressure in Tolichowki is making daily life very difficult.,Tolichowki,Water Supply,Twitter,2026-04-08 09:24:59,388,87,Hyderabad
+FB_00147,Theft incidents increasing in Kondapur. Need more police patrolling.,Kondapur,Public Safety,Twitter,2026-04-08 09:24:59,432,27,Hyderabad
+FB_00242,Park in Dilsukhnagar has no lighting. People are afraid to walk at night.,Dilsukhnagar,Parks & Recreation,Survey,2026-04-08 09:24:59,146,80,Hyderabad
+FB_00213,Police patrolling in LB Nagar has improved. Feeling much safer now.,LB Nagar,Public Safety,Survey,2026-04-08 12:24:59,401,73,Hyderabad
+FB_00087,Transformer in Malakpet makes loud noise. Please fix it.,Malakpet,Electricity,Twitter,2026-04-09 17:24:59,204,17,Hyderabad
+FB_00220,Speeding vehicles near Banjara Hills school are dangerous for students.,Banjara Hills,Public Safety,Twitter,2026-04-09 21:24:59,172,0,Hyderabad
+FB_00118,The roads in Malakpet are full of potholes. My car got damaged yesterday!,Malakpet,Roads & Infrastructure,Twitter,2026-04-10 16:24:59,209,25,Hyderabad
+FB_00189,Street near Koti is flooded during rain due to bad drainage.,Koti,Roads & Infrastructure,Portal,2026-04-10 16:24:59,304,94,Hyderabad
+FB_00237,Power cut in Abids for 6 hours. No response from electricity board.,Abids,Electricity,Portal,2026-04-10 18:24:59,59,79,Hyderabad
+FB_00069,Drains in Uppal are clogged causing water to flood the road.,Uppal,Sanitation,Portal,2026-04-10 22:24:59,251,60,Hyderabad
+FB_00290,Theft incidents increasing in Miyapur. Need more police patrolling.,Miyapur,Public Safety,Survey,2026-04-11 02:24:59,242,11,Hyderabad
