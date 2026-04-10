@@ -104,30 +104,21 @@ with st.sidebar:
 # DATA PIPELINE
 # ─────────────────────────────────────────────
 
-@st.cache_data(show_spinner=True, ttl=300)
+@st.cache_data(show_spinner="⏳ Running full NLP pipeline...", ttl=300)
 def run_pipeline(source: str, city: str, n: int, use_bert: bool, method: str, csv_path: str = None):
-    with st.spinner("📡 Loading data..."):
-        if source == "Upload CSV" and csv_path:
-            df = load_data(source="csv", city=city, csv_path=csv_path)
-        elif source == "NYC 311 Open Data":
-            df = load_data(source="nyc311", city="New York City", n=n)
-        else:
-            df = load_data(source="synthetic", city=city, n=n)
+    # Note: no st.spinner inside cached functions — causes ScriptRunContext error on cloud
+    if source == "Upload CSV" and csv_path:
+        df = load_data(source="csv", city=city, csv_path=csv_path)
+    elif source == "NYC 311 Open Data":
+        df = load_data(source="nyc311", city="New York City", n=n)
+    else:
+        df = load_data(source="synthetic", city=city, n=n)
 
-    with st.spinner("⚙️ Preprocessing text..."):
-        df = preprocess_dataframe(df)
-
-    with st.spinner("🔍 Analyzing sentiment..."):
-        df = analyze_dataframe(df, use_bert=use_bert)
-
-    with st.spinner("📌 Extracting topics..."):
-        df, topic_info = extract_topics(df, method=method)
-
-    with st.spinner("🗺️ Running NER..."):
-        df = extract_entities_batch(df)
-
-    with st.spinner("📊 Calculating priority scores..."):
-        df = score_dataframe(df)
+    df = preprocess_dataframe(df)
+    df = analyze_dataframe(df, use_bert=use_bert)
+    df, topic_info = extract_topics(df, method=method)
+    df = extract_entities_batch(df)
+    df = score_dataframe(df)
 
     return df, topic_info
 
@@ -136,18 +127,8 @@ def run_pipeline(source: str, city: str, n: int, use_bert: bool, method: str, cs
 # MAIN DASHBOARD
 # ─────────────────────────────────────────────
 
-st.markdown(
-    '<p style="font-size:30px; font-weight:bold; color:white; text-align:center;">🏙️ Smart City Public Feedback Analysis System</p>',
-    unsafe_allow_html=True
-)
-
-st.markdown(
-    f'<p style="text-align:center; color:gray;">Powered by Deep NLP + LLMs | {datetime.now().strftime("%d %b %Y, %I:%M %p")}</p>',
-    unsafe_allow_html=True
-)
-
-# st.markdown('<p class="main-header">🏙️ Smart City Public Feedback Analysis System</p>', unsafe_allow_html=True)
-# st.caption(f"Powered by Deep NLP + LLMs | {datetime.now().strftime('%d %b %Y, %I:%M %p')}")
+st.markdown('<p class="main-header">🏙️ Smart City Public Feedback Analysis System</p>', unsafe_allow_html=True)
+st.caption(f"Powered by Deep NLP + LLMs | {datetime.now().strftime('%d %b %Y, %I:%M %p')}")
 
 # Load or run pipeline
 if "df" not in st.session_state or run_btn:
@@ -467,9 +448,9 @@ with tab4:
         if col.button(q, key=f"quick_{i}"):
             st.session_state["pending_q"] = q
 
-    # Text input
+    # Text input — handle quick-question buttons cleanly
     user_input = st.chat_input("Type your question here...")
-    if "pending_q" in st.session_state:
+    if "pending_q" in st.session_state and not user_input:
         user_input = st.session_state.pop("pending_q")
 
     if user_input:
