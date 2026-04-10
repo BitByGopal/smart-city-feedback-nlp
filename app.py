@@ -30,7 +30,7 @@ st.set_page_config(
 # Custom CSS
 st.markdown("""
 <style>
-    .main-header { font-size: 2rem; font-weight: 700; color: #1a1a2e; }
+    .main-header { font-size: 2rem; font-weight: 700; color: white; }
     .metric-card { background: #f8f9fa; border-radius: 10px; padding: 1rem; border-left: 4px solid #0066cc; }
     .alert-critical { background: #fff0f0; border-left: 4px solid #e74c3c; padding: 0.5rem 1rem; border-radius: 5px; }
     .alert-high { background: #fff8f0; border-left: 4px solid #e67e22; padding: 0.5rem 1rem; border-radius: 5px; }
