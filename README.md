@@ -54,7 +54,7 @@ NLP Models     →  HuggingFace Transformers (RoBERTa), spaCy, BERTopic
 LLM            →  Google Gemini 1.5 Flash
 Backend API    →  FastAPI + Uvicorn
 Data Sources   →  Twitter API v2, Reddit PRAW, NYC 311 Open Data, Synthetic
-Language       →  Python 3.11
+Language       →  Python 3.12 or Python 3.11
 ```
 
 ---
