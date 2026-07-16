@@ -40,7 +40,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
-# IMPORTS (with error handling) Imports
+# IMPORTS (with error handling)
 # ─────────────────────────────────────────────
 
 @st.cache_resource(show_spinner=False)
@@ -116,7 +116,7 @@ def run_pipeline(source: str, city: str, n: int, use_bert: bool, method: str, cs
 
     df = preprocess_dataframe(df)
     df = analyze_dataframe(df, use_bert=use_bert)
-    df, topic_info = extract_topics(df, method=method)
+    df, topic_info = extract_topics(df, method=method) 
     df = extract_entities_batch(df)
     df = score_dataframe(df)
 
