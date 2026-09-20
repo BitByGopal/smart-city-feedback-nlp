@@ -85,7 +85,7 @@ with st.sidebar:
                          help="Enable for higher accuracy. Disable for faster processing.")
 
     topic_method = st.selectbox("📌 Topic Method", ["auto (BERTopic)", "lda", "keywords"])
-    method_map = {"auto (BERTopic)": "auto", "lda": "lda", "keywords": "keywords"}
+    method_map = {"auto (BERTopic)": "auto", "lda": "lda", "keywords": "keywords"} 
 
     st.divider()
 
