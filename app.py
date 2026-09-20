@@ -188,7 +188,7 @@ with tab1:
                 delta="High" if kpis['urgency_score'] > 6 else "Moderate")
     col5.metric("🔴 Critical Alerts", f"{kpis['critical_alerts']}", delta_color="inverse")
 
-    st.divider()
+    st.divider() 
 
     col_left, col_right = st.columns([1.5, 1])
 
