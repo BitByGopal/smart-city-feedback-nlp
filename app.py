@@ -93,7 +93,7 @@ with st.sidebar:
     if data_source == "Upload CSV":
         uploaded_file = st.file_uploader("Upload CSV (must have 'text' column)", type=["csv"])
 
-    run_btn = st.button("🚀 Analyze Feedback", type="primary", use_container_width=True)
+    run_btn = st.button("🚀 Analyze Feedback", type="primary", use_container_width=True) 
 
     st.divider()
     st.caption("💡 Tip: Start with Synthetic Data to explore the dashboard.")
