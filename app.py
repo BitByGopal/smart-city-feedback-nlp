@@ -118,7 +118,7 @@ def run_pipeline(source: str, city: str, n: int, use_bert: bool, method: str, cs
     df = analyze_dataframe(df, use_bert=use_bert)
     df, topic_info = extract_topics(df, method=method) 
     df = extract_entities_batch(df)
-    df = score_dataframe(df)
+    df = score_dataframe(df) 
 
     return df, topic_info
 
