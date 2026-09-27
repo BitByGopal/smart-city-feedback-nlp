@@ -63,7 +63,7 @@ def run_demo(n_records: int = 100):
     # Sample records
     print(f"\n  {BOLD}Sample feedback:{RESET}")
     for _, row in df.sample(3).iterrows():
-        print(f"    [{row['source']:8}] {row['text'][:70]}...")
+        print(f"    [{row['source']:8}] {row['text'][:70]}...")  
 
     # ── Step 2: Preprocessing ─────────────────────────────────────
     step(2, "Text Preprocessing")
