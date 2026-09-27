@@ -138,7 +138,7 @@ def run_demo(n_records: int = 100):
     for i, (_, row) in enumerate(top5.iterrows(), 1):
         score_color = RED if row['priority_score'] >= 7 else YELLOW if row['priority_score'] >= 4 else GREEN
         print(f"\n  {BOLD}{i}.{RESET} {row['text'][:70]}...")
-        print(f"     Area: {row.get('area', 'N/A')}  |  Dept: {row['topic_label']}")
+        print(f"     Area: {row.get('area', 'N/A')}  |  Dept: {row['topic_label']}")  
         print(f"     Score: {score_color}{row['priority_score']}/10{RESET}  |  {row['alert_level']}")
 
     # ── Step 7: LLM Report ─────────────────────────────────────────
