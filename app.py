@@ -112,7 +112,7 @@ def run_pipeline(source: str, city: str, n: int, use_bert: bool, method: str, cs
     elif source == "NYC 311 Open Data":
         df = load_data(source="nyc311", city="New York City", n=n)
     else:
-        df = load_data(source="synthetic", city=city, n=n)
+        df = load_data(source="synthetic", city=city, n=n)  
 
     df = preprocess_dataframe(df)
     df = analyze_dataframe(df, use_bert=use_bert)
