@@ -149,7 +149,7 @@ def clean_text(text: str, for_sentiment: bool = False) -> str:
         except Exception:
             tokens = [t for t in tokens if t not in STOP_WORDS and len(t) > 2]
     else:
-        tokens = [t for t in tokens if t not in STOP_WORDS and len(t) > 2]
+        tokens = [t for t in tokens if t not in STOP_WORDS and len(t) > 2]  
 
     return " ".join(tokens)
 
@@ -159,7 +159,7 @@ def preprocess_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     Apply preprocessing to the full dataframe.
     Adds cleaned_text and clean_for_sentiment columns.
     """
-    print(f"⚙️  Preprocessing {len(df)} records...")
+    print(f"⚙️  Preprocessing {len(df)} records...")  
 
     # Clean for topic modeling (aggressive)
     df["cleaned_text"] = df["text"].apply(lambda x: clean_text(x, for_sentiment=False))
