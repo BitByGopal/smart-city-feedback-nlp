@@ -56,7 +56,7 @@ def _bert_predict(texts: List[str]) -> List[Dict]:
                     "score": round(best["score"], 4),
                     "scores": {
                         label_map.get(s["label"].lower(), s["label"]): round(s["score"], 4)
-                        for s in scores
+                        for s in scores  
                     },
                 })
         except Exception as e:
