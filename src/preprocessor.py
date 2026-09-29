@@ -34,7 +34,7 @@ def _setup_nltk():
             nltk.data.find(f"tokenizers/{pkg}" if "punkt" in pkg else f"corpora/{pkg}")
         except LookupError:
             try:
-                nltk.download(pkg, quiet=True)
+                nltk.download(pkg, quiet=True) 
             except Exception:
                 pass
 
