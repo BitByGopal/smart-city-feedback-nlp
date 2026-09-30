@@ -35,7 +35,7 @@ def _load_gemini():
     global _gemini_model
     if _gemini_model is None:
         api_key = _get_gemini_key()
-        if not api_key:
+        if not api_key: 
             print("⚠️  No GEMINI_API_KEY found. Using rule-based report fallback.")
             return None
         try:
