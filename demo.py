@@ -61,6 +61,7 @@ def run_demo(n_records: int = 100):
     ok(f"Departments: {', '.join(df['department'].unique()[:4])}...")
 
     # Sample records
+    # Sample Data
     print(f"\n  {BOLD}Sample feedback:{RESET}")
     for _, row in df.sample(3).iterrows():
         print(f"    [{row['source']:8}] {row['text'][:70]}...")  
