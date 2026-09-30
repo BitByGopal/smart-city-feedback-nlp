@@ -105,7 +105,7 @@ def generate_city_report(data: Dict) -> str:
     Generate an executive summary report using Gemini LLM.
     Falls back to rule-based template if API key not set.
     """
-    context = _build_report_context(data)
+    context = _build_report_context(data)  
 
     prompt = f"""
     You are an AI Smart City Analyst preparing an executive report for municipal officials.
