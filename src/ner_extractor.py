@@ -61,7 +61,7 @@ KNOWN_AREAS = {
     "koramangala", "indiranagar", "jayanagar", "btm layout", "hsr layout",
     "whitefield", "electronic city", "hebbal", "marathahalli", "jp nagar",
     # Delhi
-    "connaught place", "saket", "dwarka", "rohini", "janakpuri", "pitampura",
+    "connaught place", "saket", "dwarka", "rohini", "janakpuri", "pitampura",  
     "lajpat nagar", "karol bagh", "nehru place", "noida", "gurugram",
     # NYC (for 311 dataset)
     "manhattan", "brooklyn", "queens", "bronx", "staten island",
