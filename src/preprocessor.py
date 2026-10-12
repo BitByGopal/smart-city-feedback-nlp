@@ -61,7 +61,7 @@ except Exception:
 
 # City-specific abbreviations and slang normalization
 CITY_SLANG = {
-    r"\bbmc\b": "municipal corporation",
+    r"\bbmc\b": "municipal corporation",  
     r"\bnmc\b": "municipal corporation",
     r"\bghmc\b": "greater hyderabad municipal corporation",
     r"\bbbmp\b": "municipal corporation",
