@@ -92,7 +92,7 @@ def _vader_predict(texts: List[str]) -> List[Dict]:
             compound = scores["compound"]
 
             if compound >= 0.05:
-                label = "POSITIVE"
+                label = "POSITIVE" 
                 score = round((compound + 1) / 2, 4)
             elif compound <= -0.05:
                 label = "NEGATIVE"
