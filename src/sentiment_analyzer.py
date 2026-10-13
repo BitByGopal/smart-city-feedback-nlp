@@ -177,7 +177,7 @@ def analyze_dataframe(df: pd.DataFrame, text_col: str = "sentiment_text", use_be
     results = analyze_sentiment(texts, use_bert=use_bert)
 
     df["sentiment_label"] = [r["label"] for r in results]
-    df["sentiment_score"] = [r["score"] for r in results]
+    df["sentiment_score"] = [r["score"] for r in results]  
 
     # Color mapping for visualizations
     color_map = {"POSITIVE": "#2ecc71", "NEGATIVE": "#e74c3c", "NEUTRAL": "#95a5a6"}
