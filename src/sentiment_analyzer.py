@@ -45,7 +45,7 @@ def _bert_predict(texts: List[str]) -> List[Dict]:
     # Process in batches of 32
     batch_size = 32
     for i in range(0, len(texts), batch_size):
-        batch = texts[i:i + batch_size]
+        batch = texts[i:i + batch_size] 
         try:
             batch_results = model(batch, truncation=True, max_length=128)
             for scores in batch_results:
