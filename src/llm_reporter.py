@@ -45,7 +45,7 @@ def _load_gemini():
                 "gemini-1.5-flash",
                 generation_config={"temperature": 0.3, "max_output_tokens": 1500},
             )
-            print("✅ Gemini model loaded.")
+            print("✅ Gemini model loaded.")  
         except Exception as e:
             print(f"⚠️  Gemini load failed: {e}")
             _gemini_model = None
