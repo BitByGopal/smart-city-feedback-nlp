@@ -81,7 +81,7 @@ CITY_SLANG = {
     r"\bdont\b": "do not",
     r"\bisnt\b": "is not",
     r"\bhasnt\b": "has not",
-}
+}  
 
 
 def normalize_slang(text: str) -> str:
