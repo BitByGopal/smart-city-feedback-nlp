@@ -49,7 +49,7 @@ DEPARTMENT_PRIORITY = {
     "Public Transport": 0.6,
     "Parks & Recreation": 0.4,
     "Public Safety": 1.0,
-    "General Services": 0.5,
+    "General Services": 0.5, 
     "Miscellaneous": 0.3,
 }
 
