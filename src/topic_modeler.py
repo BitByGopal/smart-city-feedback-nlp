@@ -39,7 +39,7 @@ DEPARTMENT_KEYWORDS = {
         "park", "garden", "playground", "bench", "tree", "green",
         "recreation", "gym", "children", "plant", "lake",
     ],
-    "Public Safety": [
+    "Public Safety": [ 
         "police", "crime", "theft", "safety", "accident", "dangerous",
         "speed", "patrol", "security", "cctv", "harassment",
     ],
