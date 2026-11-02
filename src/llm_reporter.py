@@ -39,7 +39,7 @@ def _load_gemini():
             print("⚠️  No GEMINI_API_KEY found. Using rule-based report fallback.")
             return None
         try:
-            import google.generativeai as genai
+            import google.generativeai as genai 
             genai.configure(api_key=api_key)
             _gemini_model = genai.GenerativeModel(
                 "gemini-1.5-flash",
