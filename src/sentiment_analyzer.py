@@ -65,7 +65,7 @@ def _bert_predict(texts: List[str]) -> List[Dict]:
             for _ in batch:
                 results.append({"label": "NEUTRAL", "score": 0.5, "scores": {}})
 
-    return results
+    return results 
 
 
 # ─────────────────────────────────────────────
