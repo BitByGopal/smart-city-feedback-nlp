@@ -60,7 +60,7 @@ def import_modules():
 (load_data, preprocess_dataframe, analyze_dataframe, extract_topics,
  extract_entities_batch, get_location_frequency, score_dataframe,
  get_top_complaints, get_department_summary, get_overall_city_score,
- generate_city_report, answer_query) = import_modules()
+ generate_city_report, answer_query) = import_modules() 
 
 
 # ─────────────────────────────────────────────
