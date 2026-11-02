@@ -76,7 +76,7 @@ with st.sidebar:
 
     data_source = st.selectbox(
         "📡 Data Source",
-        ["Synthetic Data (Demo)", "Upload CSV", "NYC 311 Open Data"],
+        ["Synthetic Data (Demo)", "Upload CSV", "NYC 311 Open Data"], 
     )
 
     n_records = st.slider("📊 Sample Size", min_value=100, max_value=1000, value=300, step=50)
