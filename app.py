@@ -46,7 +46,7 @@ st.markdown("""
 @st.cache_resource(show_spinner=False)
 def import_modules():
     from src.data_collector import load_data
-    from src.preprocessor import preprocess_dataframe
+    from src.preprocessor import preprocess_dataframe 
     from src.sentiment_analyzer import analyze_dataframe
     from src.topic_modeler import extract_topics
     from src.ner_extractor import extract_entities_batch, get_location_frequency
